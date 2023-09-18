@@ -6,6 +6,7 @@ Here we decide who is the best (at least we try).
 * **Dates**: (20.09.23 - 28.09.23)
 * **The Question**: If I have a protocol that requires an audit and unlimited resources which company would I choose to do a review of my codebase?
 * **Where to vote:** https://twitter.com/urbittesweet
+* **How to vote:** I will create polls in Twitter. Choose the one who deserves to move to the next stage.
 ### Participants (Twitter followers. High -> Low)
 1. [CertiK](https://www.certik.com/)
 2. [ConsenSys Diligence](https://consensys.io/diligence/)
