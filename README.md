@@ -25,7 +25,7 @@ Here we decide who is the best (at least we try).
 16. [Pessimistic Security](https://pessimistic.io/)
 ---
 **Tournament Bracket**
-
+![Bracket](https://github.com/ndkirillov/web3-tournaments/blob/main/Quality_Tournament.png)
 
 ## FAQ:
 * What will you do with the tournaments results? => _Nothing. I do this for fun._
