@@ -29,19 +29,19 @@ Here we decide who is the best (at least we try).
 ### Results
 1. [1/8](https://twitter.com/urbittesweet/status/1704148756386488532) - CertiK vs Pessimistic Security
 2. [1/8](https://twitter.com/urbittesweet/status/1704461903248904606) - ConsenSys Diligence vs Mixbytes
-3. [1/8](Link_To_Twitter_Vote) - Halborn vs Cyfrin
-4. [1/8](Link_To_Twitter_Vote) - Hacken vs Hexens
-5. [1/8](Link_To_Twitter_Vote) - PeckShield vs Certora
-6. [1/8](Link_To_Twitter_Vote) - OpenZeppelin vs SpearBit
-7. [1/8](Link_To_Twitter_Vote) - Slowmist vs QuillAudits
-8. [1/8](Link_To_Twitter_Vote) - TrailOfBits vs BlockSec
-9. [1/4](Link_To_Twitter_Vote) - TBD vs TBD
-10. [1/4](Link_To_Twitter_Vote) - TBD vs TBD
-11. [1/4](Link_To_Twitter_Vote) - TBD vs TBD
-12. [1/4](Link_To_Twitter_Vote) - TBD vs TBD
-13. [1/2](Link_To_Twitter_Vote) - TBD vs TBD
-14. [1/2](Link_To_Twitter_Vote) - TBD vs TBD
-15. [Final](Link_To_Twitter_Vote) - TBD vs TBD
+3. [1/8] - Halborn vs Cyfrin
+4. [1/8] - Hacken vs Hexens
+5. [1/8] - PeckShield vs Certora
+6. [1/8] - OpenZeppelin vs SpearBit
+7. [1/8] - Slowmist vs QuillAudits
+8. [1/8] - TrailOfBits vs BlockSec
+9. [1/4] - TBD vs TBD
+10. [1/4] - TBD vs TBD
+11. [1/4] - TBD vs TBD
+12. [1/4] - TBD vs TBD
+13. [1/2] - TBD vs TBD
+14. [1/2] - TBD vs TBD
+15. [Final] - TBD vs TBD
 ### Winner
 TBD
 
