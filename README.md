@@ -27,8 +27,8 @@ Here we decide who is the best (at least we try).
 ### Tournament Bracket:
 ![Bracket](https://github.com/ndkirillov/web3-tournaments/blob/main/Quality_Tournament.png)
 ### Results
-1. [1/8](Link_To_Twitter_Vote) - CertiK vs Pessimistic Security
-2. [1/8](Link_To_Twitter_Vote) - ConsenSys Diligence vs Mixbytes
+1. [1/8](https://twitter.com/urbittesweet/status/1704148756386488532) - CertiK vs Pessimistic Security
+2. [1/8](https://twitter.com/urbittesweet/status/1704461903248904606) - ConsenSys Diligence vs Mixbytes
 3. [1/8](Link_To_Twitter_Vote) - Halborn vs Cyfrin
 4. [1/8](Link_To_Twitter_Vote) - Hacken vs Hexens
 5. [1/8](Link_To_Twitter_Vote) - PeckShield vs Certora
