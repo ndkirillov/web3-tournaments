@@ -30,7 +30,7 @@ Here we decide who is the best (at least we try).
 1. [1/8](https://twitter.com/urbittesweet/status/1704148756386488532) - **CertiK** vs Pessimistic Security | 53.9% (341) vs 46.1% (292)
 2. [1/8](https://twitter.com/urbittesweet/status/1704461903248904606) - ConsenSys Diligence vs Mixbytes
 3. [1/8](https://twitter.com/urbittesweet/status/1704561803605221856) - Halborn vs Cyfrin
-4. [1/8] - Hacken vs Hexens
+4. [1/8](https://twitter.com/urbittesweet/status/1704782231288328416) - Hacken vs Hexens
 5. [1/8] - PeckShield vs Certora
 6. [1/8] - OpenZeppelin vs SpearBit
 7. [1/8] - Slowmist vs QuillAudits
