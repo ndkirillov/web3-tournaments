@@ -31,7 +31,7 @@ Here we decide who is the best (at least we try).
 2. [1/8](https://twitter.com/urbittesweet/status/1704461903248904606) - **ConsenSys Diligence** vs Mixbytes | 71% (140) vs 29% (57)
 3. [1/8](https://twitter.com/urbittesweet/status/1704561803605221856) - **Halborn** vs Cyfrin | 60% (300) vs 40% (200)
 4. [1/8](https://twitter.com/urbittesweet/status/1704782231288328416) - **Hacken** vs Hexens | 59% (497) vs 41% (344)
-5. [1/8](https://twitter.com/urbittesweet/status/1704927174099128463) - PeckShield vs Certora
+5. [1/8](https://twitter.com/urbittesweet/status/1704927174099128463) - PeckShield vs **Certora** | 31% (93) vs 69% (208) 
 6. [1/8](https://twitter.com/urbittesweet/status/1705148885583208585) - OpenZeppelin vs SpearBit
 7. [1/8](https://twitter.com/urbittesweet/status/1705240397562159193) - Slowmist vs QuillAudits
 8. [1/8] - TrailOfBits vs BlockSec
