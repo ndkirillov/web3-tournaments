@@ -33,7 +33,7 @@ Here we decide who is the best (at least we try).
 4. [1/8](https://twitter.com/urbittesweet/status/1704782231288328416) - **Hacken** vs Hexens | 59% (497) vs 41% (344)
 5. [1/8](https://twitter.com/urbittesweet/status/1704927174099128463) - PeckShield vs Certora
 6. [1/8](https://twitter.com/urbittesweet/status/1705148885583208585) - OpenZeppelin vs SpearBit
-7. [1/8] - Slowmist vs QuillAudits
+7. [1/8](https://twitter.com/urbittesweet/status/1705240397562159193) - Slowmist vs QuillAudits
 8. [1/8] - TrailOfBits vs BlockSec
 9. [1/4] - TBD vs TBD
 10. [1/4] - TBD vs TBD
