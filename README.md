@@ -34,7 +34,7 @@ Here we decide who is the best (at least we try).
 5. [1/8](https://twitter.com/urbittesweet/status/1704927174099128463) - PeckShield vs **Certora** | 31% (93) vs 69% (208) 
 6. [1/8](https://twitter.com/urbittesweet/status/1705148885583208585) - OpenZeppelin vs SpearBit
 7. [1/8](https://twitter.com/urbittesweet/status/1705240397562159193) - Slowmist vs QuillAudits
-8. [1/8] - TrailOfBits vs BlockSec
+8. [1/8](https://twitter.com/urbittesweet/status/1705508996403142931) - TrailOfBits vs BlockSec
 9. [1/4] - TBD vs TBD
 10. [1/4] - TBD vs TBD
 11. [1/4] - TBD vs TBD
