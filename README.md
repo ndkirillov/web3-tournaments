@@ -32,13 +32,13 @@ Here we decide who is the best (at least we try).
 3. [1/8](https://twitter.com/urbittesweet/status/1704561803605221856) - **Halborn** vs Cyfrin | 60% (300) vs 40% (200)
 4. [1/8](https://twitter.com/urbittesweet/status/1704782231288328416) - **Hacken** vs Hexens | 59% (497) vs 41% (344)
 5. [1/8](https://twitter.com/urbittesweet/status/1704927174099128463) - PeckShield vs **Certora** | 31% (93) vs 69% (208) 
-6. [1/8](https://twitter.com/urbittesweet/status/1705148885583208585) - OpenZeppelin vs SpearBit
-7. [1/8](https://twitter.com/urbittesweet/status/1705240397562159193) - Slowmist vs QuillAudits
-8. [1/8](https://twitter.com/urbittesweet/status/1705508996403142931) - TrailOfBits vs BlockSec
-9. [1/4] - TBD vs TBD
-10. [1/4] - TBD vs TBD
-11. [1/4] - TBD vs TBD
-12. [1/4] - TBD vs TBD
+6. [1/8](https://twitter.com/urbittesweet/status/1705148885583208585) - OpenZeppelin vs **SpearBit** | 43% (232) vs 57% (307)
+7. [1/8](https://twitter.com/urbittesweet/status/1705240397562159193) - Slowmist vs **QuillAudits** | 37% (111) vs 63% (188)
+8. [1/8](https://twitter.com/urbittesweet/status/1705508996403142931) - **TrailOfBits** vs BlockSec | 78% (177) vs 22% (50)
+9. [1/4] - CertiK vs Certora
+10. [1/4] - Spearbit vs Consensys
+11. [1/4] - QuillAudits vs Halborn
+12. [1/4] - Hacken vs TrailOfBits
 13. [1/2] - TBD vs TBD
 14. [1/2] - TBD vs TBD
 15. [Final] - TBD vs TBD
