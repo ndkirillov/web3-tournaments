@@ -25,7 +25,7 @@ Here we decide who is the best (at least we try).
 15. [Mixbytes](https://mixbytes.io/)
 16. [Pessimistic Security](https://pessimistic.io/)
 ### Tournament Bracket:
-![Bracket](https://github.com/ndkirillov/web3-tournaments/blob/main/Quality_Tournament_(1:4).png)
+![Bracket](https://github.com/ndkirillov/web3-tournaments/blob/main/Quality_Tournament_(1:2).png)
 ### Results
 1. [1/8](https://twitter.com/urbittesweet/status/1704148756386488532) - **CertiK** vs Pessimistic Security | 54% (341) vs 46% (292)
 2. [1/8](https://twitter.com/urbittesweet/status/1704461903248904606) - **ConsenSys Diligence** vs Mixbytes | 71% (140) vs 29% (57)
