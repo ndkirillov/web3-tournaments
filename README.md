@@ -1,4 +1,4 @@
-# Web3 Tournaments
+<img width="596" alt="image" src="https://github.com/ndkirillov/web3-tournaments/assets/75425665/529d84e6-0a39-4d12-88c1-8d1f07e33946"># Web3 Tournaments
 Here we decide who is the best (at least we try).
 
 ## Tournament №1. Best Quality Web3 Security Company.
@@ -37,10 +37,10 @@ Here we decide who is the best (at least we try).
 8. [1/8](https://twitter.com/urbittesweet/status/1705508996403142931) - **TrailOfBits** vs BlockSec | 78% (177) vs 22% (50)
 9. [1/4](https://twitter.com/urbittesweet/status/1706266277205942743) - CertiK vs **Certora** | 34% (75) vs 66% (146)
 10. [1/4](https://twitter.com/urbittesweet/status/1706362679357517869) - **Spearbit** vs Consensys | 78% (185) vs 22% (53)
-11. [1/4](https://twitter.com/urbittesweet/status/1706654957506555970) - QuillAudits vs Halborn
-12. [1/4](https://twitter.com/urbittesweet/status/1706726303142117391) - Hacken vs TrailOfBits
-13. [1/2] - TBD vs TBD
-14. [1/2] - TBD vs TBD
+11. [1/4](https://twitter.com/urbittesweet/status/1706654957506555970) - **QuillAudits** vs Halborn | 63% (4360) vs 37% (2561)
+12. [1/4](https://twitter.com/urbittesweet/status/1706726303142117391) - Hacken vs **TrailOfBits** | 42% (153) vs 58% (210)
+13. [1/2] - Certora vs QuillAudits
+14. [1/2] - TrailOfBits vs SpearBit
 15. [Final] - TBD vs TBD
 ### Winner
 TBD
