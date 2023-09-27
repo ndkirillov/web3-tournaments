@@ -1,4 +1,4 @@
-<img width="596" alt="image" src="https://github.com/ndkirillov/web3-tournaments/assets/75425665/529d84e6-0a39-4d12-88c1-8d1f07e33946"># Web3 Tournaments
+# Web3 Tournaments
 Here we decide who is the best (at least we try).
 
 ## Tournament №1. Best Quality Web3 Security Company.
