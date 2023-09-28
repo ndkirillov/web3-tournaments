@@ -39,8 +39,8 @@ Here we decide who is the best (at least we try).
 10. [1/4](https://twitter.com/urbittesweet/status/1706362679357517869) - **Spearbit** vs Consensys | 78% (185) vs 22% (53)
 11. [1/4](https://twitter.com/urbittesweet/status/1706654957506555970) - **QuillAudits** vs Halborn | 63% (4360) vs 37% (2561)
 12. [1/4](https://twitter.com/urbittesweet/status/1706726303142117391) - Hacken vs **TrailOfBits** | 42% (153) vs 58% (210)
-13. [1/2] - Certora vs QuillAudits
-14. [1/2] - TrailOfBits vs SpearBit
+13. [1/2](https://twitter.com/urbittesweet/status/1707302887355814276) - Certora vs QuillAudits
+14. [1/2](https://twitter.com/urbittesweet/status/1707303106386510235) - TrailOfBits vs SpearBit
 15. [Final] - TBD vs TBD
 ### Winner
 TBD
