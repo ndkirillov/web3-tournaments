@@ -25,7 +25,7 @@ Here we decide who is the best (at least we try).
 15. [Mixbytes](https://mixbytes.io/)
 16. [Pessimistic Security](https://pessimistic.io/)
 ### Tournament Bracket:
-![Bracket](https://github.com/ndkirillov/web3-tournaments/blob/main/Quality_Tournament_(1:2).png)
+![Bracket](https://github.com/ndkirillov/web3-tournaments/blob/main/Quality_Tournament_(Final).png)
 ### Results
 1. [1/8](https://twitter.com/urbittesweet/status/1704148756386488532) - **CertiK** vs Pessimistic Security | 54% (341) vs 46% (292)
 2. [1/8](https://twitter.com/urbittesweet/status/1704461903248904606) - **ConsenSys Diligence** vs Mixbytes | 71% (140) vs 29% (57)
@@ -39,9 +39,9 @@ Here we decide who is the best (at least we try).
 10. [1/4](https://twitter.com/urbittesweet/status/1706362679357517869) - **Spearbit** vs Consensys | 78% (185) vs 22% (53)
 11. [1/4](https://twitter.com/urbittesweet/status/1706654957506555970) - **QuillAudits** vs Halborn | 63% (4360) vs 37% (2561)
 12. [1/4](https://twitter.com/urbittesweet/status/1706726303142117391) - Hacken vs **TrailOfBits** | 42% (153) vs 58% (210)
-13. [1/2](https://twitter.com/urbittesweet/status/1707302887355814276) - Certora vs QuillAudits
-14. [1/2](https://twitter.com/urbittesweet/status/1707303106386510235) - TrailOfBits vs SpearBit
-15. [Final] - TBD vs TBD
+13. [1/2](https://twitter.com/urbittesweet/status/1707302887355814276) - **Certora** vs QuillAudits | 68% (230) vs 32% (108)
+14. [1/2](https://twitter.com/urbittesweet/status/1707303106386510235) - **TrailOfBits** vs SpearBit | 51% (4273) vs 49% (4105)
+15. [Final] - Certora vs TrailOfBits
 ### Winner
 TBD
 
