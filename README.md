@@ -41,7 +41,7 @@ Here we decide who is the best (at least we try).
 12. [1/4](https://twitter.com/urbittesweet/status/1706726303142117391) - Hacken vs **TrailOfBits** | 42% (153) vs 58% (210)
 13. [1/2](https://twitter.com/urbittesweet/status/1707302887355814276) - **Certora** vs QuillAudits | 68% (230) vs 32% (108)
 14. [1/2](https://twitter.com/urbittesweet/status/1707303106386510235) - **TrailOfBits** vs SpearBit | 51% (4273) vs 49% (4105)
-15. [Final] - Certora vs TrailOfBits
+15. [Final](https://twitter.com/urbittesweet/status/1707825842628268201) - Certora vs TrailOfBits
 ### Winner
 TBD
 
