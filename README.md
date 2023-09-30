@@ -3,7 +3,7 @@ Here we decide who is the best (at least we try).
 
 ## Tournament №1. Best Quality Web3 Security Company.
 ### Description
-* **Dates**: (20.09.23 - 28.09.23)
+* **Dates**: (20.09.23 - 30.09.23)
 * **The Question**: If I have a protocol that requires an audit and unlimited resources which company would I choose to do a review of my codebase?
 * **Where to vote:** https://twitter.com/urbittesweet
 * **How to vote:** I will create polls in Twitter. Choose the one who deserves to move to the next stage.
@@ -41,9 +41,9 @@ Here we decide who is the best (at least we try).
 12. [1/4](https://twitter.com/urbittesweet/status/1706726303142117391) - Hacken vs **TrailOfBits** | 42% (153) vs 58% (210)
 13. [1/2](https://twitter.com/urbittesweet/status/1707302887355814276) - **Certora** vs QuillAudits | 68% (230) vs 32% (108)
 14. [1/2](https://twitter.com/urbittesweet/status/1707303106386510235) - **TrailOfBits** vs SpearBit | 51% (4273) vs 49% (4105)
-15. [Final](https://twitter.com/urbittesweet/status/1707825842628268201) - Certora vs TrailOfBits
+15. [Final](https://twitter.com/urbittesweet/status/1707825842628268201) - **Certora** vs TrailOfBits | 53% (504) vs 47% (447)
 ### Winner
-TBD
+![Winner](https://github.com/ndkirillov/web3-tournaments/blob/main/Quality_Tournament_(Winner).png)
 
 ## FAQ:
 * What will you do with the tournaments results? => _Nothing. I do this for fun._
